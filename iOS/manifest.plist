@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>cn.session.HiSpeedNetCenter</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>江西高速</string>
+				<string>机电维护</string>
 			</dict>
 		</dict>
 	</array>
